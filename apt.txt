@@ -1,2 +1,1 @@
-libgfortran4
 gfortran
